@@ -17,7 +17,7 @@ This is an automated **Employee Payroll Management System** that reads payroll d
 ## 📸 Screenshots  
 
 ### 📊 Payroll Data (Excel Input)  
-![Excel Input](screenshots/excel_input.png)  
+![Excel Input](screenshots/excel_input.png)  git status
 
 ### 📈 Updated Payroll (Excel Output)  
 ![Excel Output](screenshots/excel_output.png)  
