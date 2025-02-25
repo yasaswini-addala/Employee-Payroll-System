@@ -14,3 +14,15 @@ This is an automated **Employee Payroll Management System** that reads payroll d
 ✔ Generates a formatted **Payroll Report (PDF)** automatically  
 
 ## 📂 Project Structure
+## 📸 Screenshots  
+
+### 📊 Payroll Data (Excel Input)  
+![Excel Input](screenshots/excel_input.png)  
+
+### 📈 Updated Payroll (Excel Output)  
+![Excel Output](screenshots/excel_output.png)  
+
+### 📝 Payroll Report (PDF Output)  
+![PDF Output](screenshots/pdf_output.png)  
+
+
